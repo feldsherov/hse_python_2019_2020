@@ -20,4 +20,9 @@
 
 * Рассказать про [CPython](https://github.com/python/cpython)
 * Paссказать про [целые числа в Python](https://rushter.com/blog/python-integer-implementation/)
+  - структура в C коде
+  - refcount
+  - неизменяемость
+  - fast path
+  - пре аллокация чисел от -5 до 256
 * Разобрать [эти задачи](https://informatics.msk.ru/mod/statements/view3.php?id=3290&chapterid=3450#1)
